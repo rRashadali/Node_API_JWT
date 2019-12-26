@@ -1,4 +1,4 @@
-# Securing RESTful APIs with JWT
+#RESTful APIs with JWT
 
 ![]()
 
